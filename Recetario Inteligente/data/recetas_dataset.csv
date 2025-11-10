@@ -1,0 +1,72 @@
+nombre,ingredientes,categoria,carne,gluten,lacteos,azucar
+Ensalada de Quinoa,"quinoa, tomate, cebolla, aceite de oliva, sal",saludable,FALSE,FALSE,FALSE,FALSE
+Pollo al Horno,"pollo, papa, ajo, sal, aceite de oliva",principal,TRUE,TRUE,FALSE,FALSE
+Budín de Vainilla,"harina, azúcar, huevo, leche, manteca",postre,FALSE,TRUE,TRUE,TRUE
+Tarta Vegana,"harina de maíz, espinaca, tofu, cebolla",saludable,FALSE,FALSE,FALSE,FALSE
+Galletas de Avena,"avena, azúcar, huevo, canela",postre,FALSE,TRUE,FALSE,TRUE
+Empanadas Salteñas,"carne molida, cebolla, huevo duro, aceitunas, masa de empanadas",principal,TRUE,TRUE,FALSE,FALSE
+Locro Criollo,"maíz blanco, zapallo, chorizo, panceta, porotos, cebolla",principal,TRUE,TRUE,FALSE,FALSE
+Chocotorta,"galletitas chocolinas, dulce de leche, queso crema, café",postre,FALSE,TRUE,TRUE,TRUE
+Flan Casero,"huevo, leche, azúcar, esencia de vainilla",postre,FALSE,FALSE,TRUE,TRUE
+Medialunas de Manteca,"harina, manteca, azúcar, leche, huevo",postre,FALSE,TRUE,TRUE,TRUE
+Guiso de Lentejas,"lentejas, chorizo, zanahoria, cebolla, papa",principal,TRUE,FALSE,FALSE,FALSE
+Ensalada de Garbanzos,"garbanzos, tomate, cebolla, morrón, aceite de oliva, limón",saludable,FALSE,FALSE,FALSE,FALSE
+Wok de Verduras,"brócoli, zanahoria, cebolla, salsa de soja, aceite de oliva",saludable,FALSE,FALSE,FALSE,FALSE
+Hamburguesas de Lentejas,"lentejas, cebolla, zanahoria, avena, ajo",saludable,FALSE,TRUE,FALSE,FALSE
+Milanesas de Soja,"soja texturizada, pan rallado, huevo, ajo, perejil",saludable,FALSE,TRUE,FALSE,FALSE
+Tacos Veganos,"tortilla de maíz, porotos negros, palta, cebolla, tomate",saludable,FALSE,TRUE,FALSE,FALSE
+Pan de Banana Integral,"banana, harina integral, avena, azúcar mascabo, aceite de coco",postre,FALSE,TRUE,FALSE,TRUE
+Budín de Zanahoria,"zanahoria rallada, harina integral, azúcar mascabo, aceite, nueces",postre,FALSE,TRUE,FALSE,TRUE
+Ensalada de Espinaca y Naranja,"espinaca, naranja, almendras, aceite de oliva",saludable,FALSE,FALSE,FALSE,FALSE
+Curry de Garbanzos,"garbanzos, leche de coco, cebolla, ajo, curry",saludable,FALSE,FALSE,FALSE,FALSE
+Fainá con Verduras,"harina de garbanzos, espinaca, cebolla, zanahoria",saludable,FALSE,FALSE,FALSE,FALSE
+Revuelto de Tofu y Vegetales,"tofu, cebolla, pimiento, cúrcuma, aceite de oliva",saludable,FALSE,FALSE,FALSE,FALSE
+Ensalada Caprese,"tomate, mozzarella, albahaca, aceite de oliva",saludable,FALSE,FALSE,TRUE,FALSE
+Tarta Integral de Acelga,"harina integral, acelga, cebolla, huevo, ricota",saludable,FALSE,TRUE,TRUE,FALSE
+Hummus Casero,"garbanzos, tahini, aceite de oliva, limón, ajo",saludable,FALSE,FALSE,FALSE,FALSE
+Guiso Vegano de Zapallo,"zapallo, lentejas, cebolla, zanahoria, pimiento",saludable,FALSE,FALSE,FALSE,FALSE
+Smoothie Verde,"espinaca, manzana, banana, agua, jengibre",saludable,FALSE,FALSE,FALSE,TRUE
+Panqueques Veganos de Avena,"avena, banana, leche vegetal, canela",postre,FALSE,TRUE,FALSE,TRUE
+Bowl de Yogur y Frutas,"yogur natural, frutilla, banana, avena, miel",saludable,FALSE,FALSE,TRUE,TRUE
+Croquetas de Calabaza,"calabaza, avena, cebolla, huevo, queso rallado",saludable,FALSE,TRUE,TRUE,FALSE
+Ensalada de Quinoa y Palta,"quinoa, palta, tomate, cebolla morada, limón",saludable,FALSE,FALSE,FALSE,FALSE
+Ñoquis de Papa,"papa, harina, huevo, sal, salsa de tomate",principal,False,True,False,False
+Risotto de Hongos,"arroz, hongos, cebolla, vino blanco, queso parmesano",principal,False,False,True,False
+Pechugas al Limón,"pollo, limón, ajo, aceite de oliva",principal,True,False,False,False
+Canelones de Verdura,"espinaca, ricota, masa para canelones, salsa blanca",principal,False,True,True,False
+Pasta Alfredo,"fideos, crema, manteca, queso parmesano",principal,False,True,True,False
+Tortilla de Papas,"papa, huevo, cebolla, aceite de oliva",saludable,False,False,False,False
+Berenjenas al Escabeche,"berenjena, vinagre, ajo, aceite, laurel",saludable,False,False,False,False
+Hamburguesa Vegana,"porotos negros, avena, cebolla, ajo, pan rallado",saludable,False,True,False,False
+Ensalada Mediterránea,"tomate, pepino, aceitunas, queso feta, aceite de oliva",saludable,False,False,True,False
+Wrap de Pollo,"pollo, tortilla, lechuga, tomate, mayonesa",principal,True,True,True,False
+Guiso de Arroz,"arroz, carne, cebolla, zanahoria, pimiento",principal,True,False,False,False
+Tacos de Pescado,"pescado, tortilla, repollo, limón, salsa tártara",principal,True,True,True,False
+Pizza Vegetariana,"harina, tomate, mozzarella, berenjena, morrón",principal,False,True,True,False
+Empanadas Árabes,"carne, cebolla, limón, comino, masa de empanadas",principal,True,True,False,False
+Pan Casero Integral,"harina integral, levadura, agua, sal",saludable,False,True,False,False
+Budín de Naranja,"harina, naranja, huevo, azúcar, aceite",postre,False,True,False,True
+Tarta de Manzana,"manzana, harina, azúcar, manteca, huevo",postre,False,True,True,True
+Helado de Frutilla,"frutilla, leche, azúcar, crema",postre,False,False,True,True
+Cheesecake,"galletitas, manteca, queso crema, azúcar, frutilla",postre,False,True,True,True
+Brownie,"chocolate, manteca, azúcar, huevo, harina",postre,False,True,True,True
+Sopa de Calabaza,"calabaza, cebolla, zanahoria, sal, agua",saludable,False,False,False,False
+Fideos con Pesto,"fideos, albahaca, ajo, aceite de oliva, queso parmesano",principal,False,True,True,False
+Arroz Chaufa Vegano,"arroz, tofu, cebolla, pimiento, salsa de soja",saludable,False,False,False,False
+Empanadas de Pollo,"pollo, cebolla, pimiento, huevo, masa de empanadas",principal,True,True,False,False
+Lasaña de Verdura,"espinaca, berenjena, ricota, salsa de tomate",principal,False,True,True,False
+Cazuela de Mariscos,"mariscos, arroz, cebolla, pimiento, ajo",principal,True,False,False,False
+Pan de Avena,"avena, harina integral, miel, aceite, leche",saludable,False,True,True,True
+Tostadas Francesas,"pan, huevo, leche, azúcar, canela",postre,False,True,True,True
+Crepes de Espinaca,"harina, huevo, leche, espinaca",saludable,False,True,True,False
+Smoothie de Mango,"mango, yogur, miel",saludable,False,False,True,True
+Ensalada Thai,"zanahoria, pepino, maní, salsa de soja, lima",saludable,False,False,False,False
+Muffins de Arándanos,"harina, azúcar, huevo, leche, arándanos",postre,False,True,True,True
+Panqueques Integrales,"harina integral, huevo, leche, miel",postre,False,True,True,True
+Budín de Limón,"harina, limón, azúcar, huevo, manteca",postre,False,True,True,True
+Gazpacho,"tomate, pepino, ajo, aceite de oliva, vinagre",saludable,False,False,False,False
+Pizza de Coliflor,"coliflor, queso mozzarella, huevo, tomate, orégano",saludable,False,False,True,False
+Tostadas de Palta,"pan integral, palta, limón, sal",saludable,False,True,False,False
+Tarta de Zapallitos,"zapallitos, huevo, queso, harina",saludable,False,True,True,False
+Waffles Caseros,"harina, huevo, leche, azúcar, manteca",postre,False,True,True,True
+Papas al Romero,"papa, romero, ajo, aceite de oliva, sal",saludable,False,False,False,False
