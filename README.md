@@ -18,15 +18,25 @@ El Recetario Inteligente funciona como un agente conversacional que guía al usu
 ### **Arquitectura del proyecto**
 
 recetario_inteligente/
+
 ├── data/
+
 │   └── recetas_dataset.csv       # Dataset de 71 recetas
+
 ├── src/                          # Módulos de Código Fuente
+
 │   ├── models/                   # Módulo de Machine Learning (Recomendación)
+
 │   │   └── recommender.py        
+
 │   ├── services/                 # Módulos de Lógica de Negocio y Búsqueda
+
 │   │   ├── business_logic.py     # Reglas de negocio y Filtrado
+
 │   │   └── search_engine.py      # Motor de Ranqueo (TF-IDF)
+
 │   └── main.py                   # Agente de Interacción y Orquestación
+
 └── requirements.txt
 
 ### Componentes
